@@ -1,4 +1,11 @@
-# Marlin 3D Printer Firmware
+# Fork Notes
+
+This fork has a simple goal, store my(Sean) changes to the Marlin firmware for my 3d printer.
+Platform: Ender 3 pro
+Upgrades
+* 2020-8-5: mainboard skr mini e3 v2
+
+## Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
